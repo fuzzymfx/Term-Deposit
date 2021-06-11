@@ -1,6 +1,6 @@
 # Data Visualization and analysis project
 
-All project files hereAnalyzed the dataset using Orange looking at the trends to find out the required constraints
+Analyzed the dataset using Orange looking at the trends to find out the required constraints
 
 Used Orange to visualize the age, duration of calls and the histogram of getting a YES
 
