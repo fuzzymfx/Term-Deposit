@@ -4,4 +4,4 @@ Analyzed the dataset using Orange looking at the trends to find out the required
 
 Used Orange to visualize the age, duration of calls and the histogram of getting a YES
 
-Used a Logistic Regression ML model to figure out the precision, accuracy  of no of  YES
+Built a Logistic Regression ML model to figure out the precision, accuracy  of no of  YES
